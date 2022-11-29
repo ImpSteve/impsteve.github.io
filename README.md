@@ -1,4 +1,4 @@
-# ImpSteve's Homepage
+# ImpSteve
 
 ## Contact info
 - Discord: ImpSteve#4898
